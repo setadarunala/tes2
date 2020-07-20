@@ -7,6 +7,7 @@
 </head>
 <body>
     <h1>INI PHPHPHP</h1>
+    <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Animi modi reprehenderit voluptatem error beatae explicabo minus aut? Nesciunt quam accusamus modi aperiam, amet nobis. Quasi autem aliquam vero similique deleniti.</p>
     
 </body>
 </html>
